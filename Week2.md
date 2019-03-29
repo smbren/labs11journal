@@ -20,3 +20,13 @@ Part 2 - Weekly Reflection
 As a part of your journal entry, write ¼ to ½ a page reflecting on your experiences forming a team. What did you do to help the team solidify as a group? What did you do that you now realize caused friction in this process? What are you doing personally to make sure that everyone on the team, including you, has a voice in decision making?
 
 This week I've been working on my communication; I've been making an effort to do better at communicating where I'm at with my work on the project and keeping up with what everyone else is working on. I've also tried to make sure that I'm clearly communicating my thoughts and my understanding of the project's goals. Instead of assuming I know what needs to be done, I've started to verify with the team first to ensure that we are all on the same page. I've also been working on being more open to suggestions from the team.
+
+https://trello.com/c/6IfmIfsm/34-school-admin-dashboard
+https://trello.com/c/Kq7sGZW4/77-individual-student-view
+
+https://github.com/labs11-studentdata/labs11-studentData-BE/commit/c7e3f733587e41216126179124ad385a64872270
+https://github.com/labs11-studentdata/labs11-studentData-FE/commit/f97630509458b7593da3093d694dfb7fda3d51e1
+https://github.com/labs11-studentdata/labs11-studentData-FE/commit/949b6378498b25083900379e088151fa67ed8be2
+https://github.com/labs11-studentdata/labs11-studentData-FE/commit/3bfd197b94b14d160b0d32b7b6cd9892e5310010
+https://github.com/labs11-studentdata/labs11-studentData-FE/commit/6b4406af58a6e01ae56a885869b3e67d490e747d
+https://github.com/labs11-studentdata/labs11-studentData-FE/commit/7898afaa02ba86d325626f2c1e28828aa267cbc4
