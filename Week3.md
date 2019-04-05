@@ -13,6 +13,9 @@ https://github.com/labs11-studentdata/labs11-studentData-BE/blob/master/config/i
 
 This PR shows the backend part of implementing an image upload feature. I had never encountered this problem before, and it was more challenging than I first expected. While researching possible solutions, I found several options to choose from. I narrowed these options down to either storing images as binary data in our database or storing them in a public uploads folder on the server filesystem. After further research and weighing these options, I chose the latter option for our use case because it seems to be the common solution that is used for most real world projects. I found a backend middleware that works with formdata that we would be sending and spent some time learning how to work with it. Eventually I was able to successfully upload image files to our server filesystem. 
 
+![Screenshot](screenshots/week3/fescreenshot.png)
+![Screenshot](screenshots/week3/bescreenshot.png)
+
 
 
 Part 2 - Weekly Reflection
